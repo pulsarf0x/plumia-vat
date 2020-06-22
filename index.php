@@ -11,7 +11,7 @@
 <body class="font-sans bg-gray-100">
     <div class="container mx-auto flex justify-center">
         <div class="m-6">
-            <p><img src="https://plumia.net/logo-text.png" class="mx-auto mb-5 opacity-50"></p>
+            <p><img src="/logo-text.png" class="mx-auto mb-5 opacity-50"></p>
             <form class="max-w-xs p-6 w-full bg-white rounded shadow-md mb-4">
                 <div class="mb-4">
                     <label class="block">Prix HT</label>
